@@ -13,6 +13,10 @@ For More information about ACM SA please visit out website at https://acmsa.org
 or if you are interested in joining our developmental communities here in san antonio please connect with us on the 
 DevSA discord: https://discord.gg/insert-url-here-gene
 
+<div>
+  <img src="assets/promo-images/ACM_SA_Logo_1.png" alt="Alt Text" width="125" style="margin: 10px">
+  <img src="assets/promo-images/devsa-logo.svg" alt="Alt Text" width="150" style="margin: 10px">
+</div>
 ---
 
 ## Running the Project
