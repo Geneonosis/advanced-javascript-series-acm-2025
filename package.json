@@ -1,0 +1,26 @@
+{
+  "name": "advanced-javascript-concepts-series-discussion-2025",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:array-methods": "node array-methods/array-methods.js",
+    "start:object-methods": "node object-methods.js",
+    "start:functions": "node functions.js",
+    "start:array-methods:for-each": "node array-methods/forEach.js",
+    "start:array-methods:map": "node array-methods/map.js",
+    "start:array-methods:filter": "node array-methods/filter.js",
+    "start:array-methods:includes": "node array-methods/includes.js",
+    "start:array-methods:take-home": "node array-methods/take-home.js",
+    "start:array-methods:reduce": "node array-methods/reduce.js",
+    "start:array-methods:example-problems": "node array-methods/example-problems.js"
+  },
+  "keywords": [],
+  "author": "Gene Tigner",
+  "license": "ISC",
+  "description": "A series of advances javascript concepts for discussion in The Association for Computing Machinery (ACM) 2025. This program is a list of some examples of Advanced JavaScript Concepts. At the time of this writing I am considering the following 3 categories for each discussion across three days. Day 1: Array Methods, Day 2: Object Methods and Complex Objects, Day 3: Functions and Higher Order Functions. There should be enough information on each of these topics in order to be able to talk about them at length.",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}
