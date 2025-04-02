@@ -13,7 +13,9 @@
     "start:array-methods:includes": "node array-methods/includes.js",
     "start:array-methods:take-home": "node array-methods/take-home.js",
     "start:array-methods:reduce": "node array-methods/reduce.js",
-    "start:array-methods:example-problems": "node array-methods/example-problems.js"
+    "start:array-methods:example-problems": "node array-methods/example-problems.js",
+    "start:objects:basics": "node objects/basic-objects.js",
+    "start:objects:constructors": "node objects/constructors.js"
   },
   "keywords": [],
   "author": "Gene Tigner",
